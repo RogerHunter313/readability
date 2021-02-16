@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\roger\Desktop\Harvard CS 50 2021\Readability\Readability\main.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roger\Desktop\Harvard CS 50 2021\Readability\Readability\main.cpp(70,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\roger\Desktop\Harvard CS 50 2021\Readability\Readability\main.cpp(72,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\roger\Desktop\Harvard CS 50 2021\Readability\Readability\main.cpp(75,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\roger\Desktop\Harvard CS 50 2021\Readability\Readability\main.cpp(36,15): warning C4101: 'words': unreferenced local variable
+  Readability.vcxproj -> C:\Users\roger\Desktop\Harvard CS 50 2021\Readability\Debug\Readability.exe
